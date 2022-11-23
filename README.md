@@ -1,5 +1,5 @@
 # **Trux Trucks**
-## Suomen suurin kuorma-autovälittäjä Ranskaan
+## *Suomen suurin kuorma-autovälittäjä Ranskaan*
 > Trux Trucks toimii Euroopan suurimmilla markkinoilla.
 
 #### [Avoimet hakumme](test.md)
